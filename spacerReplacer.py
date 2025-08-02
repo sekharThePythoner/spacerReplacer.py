@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("🛠️ Space Replacer Tool")
+st.title("🛠️ Space Replacer Tool by sekhar ")
 st.write("Replace all spaces in your text with a special character!")
 
 # User input
